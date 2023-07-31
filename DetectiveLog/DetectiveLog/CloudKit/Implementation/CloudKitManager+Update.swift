@@ -108,7 +108,6 @@ extension CloudKitManager {
                 return
             }
             record["isLocked"] = isLocked
-            print("@Log updateLogRecordIsLocked - \(record["isLocked"])")
             self.container.save(record) { record, error in
                 if let error = error {
                     print("@Log updateLogRecordIsLocked - \(error.localizedDescription)")

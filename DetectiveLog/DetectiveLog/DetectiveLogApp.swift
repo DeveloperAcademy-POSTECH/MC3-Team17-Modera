@@ -16,9 +16,9 @@ struct DetectiveLogApp: App {
     var body: some Scene {
         WindowGroup {
 //            CategoryView()
-            //LogView()
-            SearchTestView()
-//            CalendarView()
+            LogView()
+//            LogMemoWriteView()
+//            DetailLogMenuSheet()
         }
     }
 }
