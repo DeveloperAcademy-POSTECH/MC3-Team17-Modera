@@ -31,17 +31,17 @@
 		66E0667F2A6E5CCE00BE3751 /* LogTitleSelectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E0667E2A6E5CCE00BE3751 /* LogTitleSelectionView.swift */; };
 		66E066812A6E5CDF00BE3751 /* LogListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E066802A6E5CDF00BE3751 /* LogListView.swift */; };
 		66E066862A6E632D00BE3751 /* LogTitleSelectionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66E066852A6E632D00BE3751 /* LogTitleSelectionViewModel.swift */; };
-		AF0579C42A779066004577E7 /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579B52A779066004577E7 /* DetailViewModel.swift */; };
-		AF0579C52A779066004577E7 /* TempDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579B62A779066004577E7 /* TempDetailView.swift */; };
-		AF0579C62A779066004577E7 /* DetailLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579B82A779066004577E7 /* DetailLog.swift */; };
-		AF0579C72A779066004577E7 /* LogOpinion.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579B92A779066004577E7 /* LogOpinion.swift */; };
-		AF0579C82A779066004577E7 /* LogMemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579BA2A779066004577E7 /* LogMemo.swift */; };
-		AF0579C92A779066004577E7 /* OpinionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579BD2A779066004577E7 /* OpinionCell.swift */; };
-		AF0579CA2A779066004577E7 /* DateCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579BE2A779066004577E7 /* DateCell.swift */; };
-		AF0579CB2A779066004577E7 /* MemoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579BF2A779066004577E7 /* MemoCell.swift */; };
-		AF0579CC2A779066004577E7 /* DetailLogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579C02A779066004577E7 /* DetailLogView.swift */; };
-		AF0579CD2A779066004577E7 /* LogWriteSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579C22A779066004577E7 /* LogWriteSheet.swift */; };
-		AF0579CE2A779066004577E7 /* DetailLogMenuSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579C32A779066004577E7 /* DetailLogMenuSheet.swift */; };
+		AF0579E02A7790F8004577E7 /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579D12A7790F8004577E7 /* DetailViewModel.swift */; };
+		AF0579E12A7790F8004577E7 /* TempDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579D22A7790F8004577E7 /* TempDetailView.swift */; };
+		AF0579E22A7790F8004577E7 /* DetailLog.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579D42A7790F8004577E7 /* DetailLog.swift */; };
+		AF0579E32A7790F8004577E7 /* LogOpinion.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579D52A7790F8004577E7 /* LogOpinion.swift */; };
+		AF0579E42A7790F8004577E7 /* LogMemo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579D62A7790F8004577E7 /* LogMemo.swift */; };
+		AF0579E52A7790F8004577E7 /* OpinionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579D92A7790F8004577E7 /* OpinionCell.swift */; };
+		AF0579E62A7790F8004577E7 /* DateCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579DA2A7790F8004577E7 /* DateCell.swift */; };
+		AF0579E72A7790F8004577E7 /* MemoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579DB2A7790F8004577E7 /* MemoCell.swift */; };
+		AF0579E82A7790F8004577E7 /* DetailLogView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579DC2A7790F8004577E7 /* DetailLogView.swift */; };
+		AF0579E92A7790F8004577E7 /* LogWriteSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579DE2A7790F8004577E7 /* LogWriteSheet.swift */; };
+		AF0579EA2A7790F8004577E7 /* DetailLogMenuSheet.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF0579DF2A7790F8004577E7 /* DetailLogMenuSheet.swift */; };
 		AF73FA2F2A6A705A00213DBE /* LogViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF73FA2E2A6A705A00213DBE /* LogViewModel.swift */; };
 		AF73FA3D2A6EF4BE00213DBE /* CloudKitManagerInterface.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF73FA3C2A6EF4BE00213DBE /* CloudKitManagerInterface.swift */; };
 		AF73FA412A6EFB7000213DBE /* CloudKitManager+Create.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF73FA402A6EFB7000213DBE /* CloudKitManager+Create.swift */; };
@@ -155,17 +155,17 @@
 		66E066872A6E6F0D00BE3751 /* DetectiveLogWatch Watch AppRelease.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "DetectiveLogWatch Watch AppRelease.entitlements"; sourceTree = "<group>"; };
 		A950B1892A6FC23400FB9080 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		AF0115E32A6FA5830021E462 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
-		AF0579B52A779066004577E7 /* DetailViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewModel.swift; sourceTree = "<group>"; };
-		AF0579B62A779066004577E7 /* TempDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TempDetailView.swift; sourceTree = "<group>"; };
-		AF0579B82A779066004577E7 /* DetailLog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailLog.swift; sourceTree = "<group>"; };
-		AF0579B92A779066004577E7 /* LogOpinion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogOpinion.swift; sourceTree = "<group>"; };
-		AF0579BA2A779066004577E7 /* LogMemo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogMemo.swift; sourceTree = "<group>"; };
-		AF0579BD2A779066004577E7 /* OpinionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpinionCell.swift; sourceTree = "<group>"; };
-		AF0579BE2A779066004577E7 /* DateCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateCell.swift; sourceTree = "<group>"; };
-		AF0579BF2A779066004577E7 /* MemoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemoCell.swift; sourceTree = "<group>"; };
-		AF0579C02A779066004577E7 /* DetailLogView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailLogView.swift; sourceTree = "<group>"; };
-		AF0579C22A779066004577E7 /* LogWriteSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogWriteSheet.swift; sourceTree = "<group>"; };
-		AF0579C32A779066004577E7 /* DetailLogMenuSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailLogMenuSheet.swift; sourceTree = "<group>"; };
+		AF0579D12A7790F8004577E7 /* DetailViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailViewModel.swift; sourceTree = "<group>"; };
+		AF0579D22A7790F8004577E7 /* TempDetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TempDetailView.swift; sourceTree = "<group>"; };
+		AF0579D42A7790F8004577E7 /* DetailLog.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailLog.swift; sourceTree = "<group>"; };
+		AF0579D52A7790F8004577E7 /* LogOpinion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogOpinion.swift; sourceTree = "<group>"; };
+		AF0579D62A7790F8004577E7 /* LogMemo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogMemo.swift; sourceTree = "<group>"; };
+		AF0579D92A7790F8004577E7 /* OpinionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpinionCell.swift; sourceTree = "<group>"; };
+		AF0579DA2A7790F8004577E7 /* DateCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateCell.swift; sourceTree = "<group>"; };
+		AF0579DB2A7790F8004577E7 /* MemoCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MemoCell.swift; sourceTree = "<group>"; };
+		AF0579DC2A7790F8004577E7 /* DetailLogView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailLogView.swift; sourceTree = "<group>"; };
+		AF0579DE2A7790F8004577E7 /* LogWriteSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogWriteSheet.swift; sourceTree = "<group>"; };
+		AF0579DF2A7790F8004577E7 /* DetailLogMenuSheet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailLogMenuSheet.swift; sourceTree = "<group>"; };
 		AF73FA2E2A6A705A00213DBE /* LogViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogViewModel.swift; sourceTree = "<group>"; };
 		AF73FA3C2A6EF4BE00213DBE /* CloudKitManagerInterface.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloudKitManagerInterface.swift; sourceTree = "<group>"; };
 		AF73FA402A6EFB7000213DBE /* CloudKitManager+Create.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CloudKitManager+Create.swift"; sourceTree = "<group>"; };
@@ -339,61 +339,60 @@
 			path = Detail;
 			sourceTree = "<group>";
 		};
-		AF0579B32A779066004577E7 /* TempDetail */ = {
+		AF0579CF2A7790F8004577E7 /* TempDetail */ = {
 			isa = PBXGroup;
 			children = (
-				AF0579B42A779066004577E7 /* ViewModel */,
-				AF0579B72A779066004577E7 /* Model */,
-				AF0579BB2A779066004577E7 /* View */,
+				AF0579D02A7790F8004577E7 /* ViewModel */,
+				AF0579D32A7790F8004577E7 /* Model */,
+				AF0579D72A7790F8004577E7 /* View */,
 			);
-			name = TempDetail;
-			path = FaceID/TempDetail;
+			path = TempDetail;
 			sourceTree = "<group>";
 		};
-		AF0579B42A779066004577E7 /* ViewModel */ = {
+		AF0579D02A7790F8004577E7 /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
-				AF0579B52A779066004577E7 /* DetailViewModel.swift */,
-				AF0579B62A779066004577E7 /* TempDetailView.swift */,
+				AF0579D12A7790F8004577E7 /* DetailViewModel.swift */,
+				AF0579D22A7790F8004577E7 /* TempDetailView.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
-		AF0579B72A779066004577E7 /* Model */ = {
+		AF0579D32A7790F8004577E7 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				AF0579B82A779066004577E7 /* DetailLog.swift */,
-				AF0579B92A779066004577E7 /* LogOpinion.swift */,
-				AF0579BA2A779066004577E7 /* LogMemo.swift */,
+				AF0579D42A7790F8004577E7 /* DetailLog.swift */,
+				AF0579D52A7790F8004577E7 /* LogOpinion.swift */,
+				AF0579D62A7790F8004577E7 /* LogMemo.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
 		};
-		AF0579BB2A779066004577E7 /* View */ = {
+		AF0579D72A7790F8004577E7 /* View */ = {
 			isa = PBXGroup;
 			children = (
-				AF0579BC2A779066004577E7 /* Cell */,
-				AF0579C02A779066004577E7 /* DetailLogView.swift */,
-				AF0579C12A779066004577E7 /* Sheet */,
+				AF0579D82A7790F8004577E7 /* Cell */,
+				AF0579DC2A7790F8004577E7 /* DetailLogView.swift */,
+				AF0579DD2A7790F8004577E7 /* Sheet */,
 			);
 			path = View;
 			sourceTree = "<group>";
 		};
-		AF0579BC2A779066004577E7 /* Cell */ = {
+		AF0579D82A7790F8004577E7 /* Cell */ = {
 			isa = PBXGroup;
 			children = (
-				AF0579BD2A779066004577E7 /* OpinionCell.swift */,
-				AF0579BE2A779066004577E7 /* DateCell.swift */,
-				AF0579BF2A779066004577E7 /* MemoCell.swift */,
+				AF0579D92A7790F8004577E7 /* OpinionCell.swift */,
+				AF0579DA2A7790F8004577E7 /* DateCell.swift */,
+				AF0579DB2A7790F8004577E7 /* MemoCell.swift */,
 			);
 			path = Cell;
 			sourceTree = "<group>";
 		};
-		AF0579C12A779066004577E7 /* Sheet */ = {
+		AF0579DD2A7790F8004577E7 /* Sheet */ = {
 			isa = PBXGroup;
 			children = (
-				AF0579C22A779066004577E7 /* LogWriteSheet.swift */,
-				AF0579C32A779066004577E7 /* DetailLogMenuSheet.swift */,
+				AF0579DE2A7790F8004577E7 /* LogWriteSheet.swift */,
+				AF0579DF2A7790F8004577E7 /* DetailLogMenuSheet.swift */,
 			);
 			path = Sheet;
 			sourceTree = "<group>";
@@ -483,7 +482,7 @@
 		AFEFF5AB2A67CFD3004AFD1A /* DetectiveLog */ = {
 			isa = PBXGroup;
 			children = (
-				AF0579B32A779066004577E7 /* TempDetail */,
+				AF0579CF2A7790F8004577E7 /* TempDetail */,
 				AF967B822A730C0600CB5786 /* FaceID */,
 				66D176C52A6FE65900194690 /* Search */,
 				A950B1882A6FC15800FB9080 /* Detail */,
@@ -699,36 +698,36 @@
 				66D176FB2A71452500194690 /* MoveYearMonthPicker.swift in Sources */,
 				AF73FA412A6EFB7000213DBE /* CloudKitManager+Create.swift in Sources */,
 				AF73FA452A6EFBF300213DBE /* CloudKitManager+Update.swift in Sources */,
+				AF0579E32A7790F8004577E7 /* LogOpinion.swift in Sources */,
+				AF0579E52A7790F8004577E7 /* OpinionCell.swift in Sources */,
+				AF0579E12A7790F8004577E7 /* TempDetailView.swift in Sources */,
 				AFEFF5B22A67CFD3004AFD1A /* DetectiveLog.xcdatamodeld in Sources */,
 				AF73FA432A6EFBB300213DBE /* CloudKitManager+Read.swift in Sources */,
 				AFEFF5AD2A67CFD3004AFD1A /* DetectiveLogApp.swift in Sources */,
 				66D176C92A6FE82300194690 /* SearchTestView.swift in Sources */,
-				AF0579C62A779066004577E7 /* DetailLog.swift in Sources */,
 				66D176F72A70F4DC00194690 /* CalendarView.swift in Sources */,
+				AF0579E72A7790F8004577E7 /* MemoCell.swift in Sources */,
 				66D176CB2A6FE95E00194690 /* SearchTestViewModel.swift in Sources */,
-				AF0579CD2A779066004577E7 /* LogWriteSheet.swift in Sources */,
 				AF967B842A730C1300CB5786 /* FaceIDManager.swift in Sources */,
-				AF0579CB2A779066004577E7 /* MemoCell.swift in Sources */,
-				AF0579C42A779066004577E7 /* DetailViewModel.swift in Sources */,
-				AF0579C72A779066004577E7 /* LogOpinion.swift in Sources */,
 				AFEFF5DE2A67F436004AFD1A /* Log.swift in Sources */,
+				AF0579E82A7790F8004577E7 /* DetailLogView.swift in Sources */,
+				AF0579E02A7790F8004577E7 /* DetailViewModel.swift in Sources */,
 				AFEFF5D92A67D112004AFD1A /* LogView.swift in Sources */,
 				AFE38EA02A683B0500B4FF9E /* LogCell.swift in Sources */,
-				AF0579C52A779066004577E7 /* TempDetailView.swift in Sources */,
 				AFEFF5AF2A67CFD3004AFD1A /* Persistence.swift in Sources */,
-				AF0579C82A779066004577E7 /* LogMemo.swift in Sources */,
+				AF0579EA2A7790F8004577E7 /* DetailLogMenuSheet.swift in Sources */,
+				AF0579E92A7790F8004577E7 /* LogWriteSheet.swift in Sources */,
 				66D176C72A6FE69500194690 /* FakeLogMemo.swift in Sources */,
+				AF0579E22A7790F8004577E7 /* DetailLog.swift in Sources */,
 				66D176EF2A70036800194690 /* SearchBarView.swift in Sources */,
-				AF0579CC2A779066004577E7 /* DetailLogView.swift in Sources */,
-				AF0579CA2A779066004577E7 /* DateCell.swift in Sources */,
-				AF0579C92A779066004577E7 /* OpinionCell.swift in Sources */,
+				AF0579E42A7790F8004577E7 /* LogMemo.swift in Sources */,
+				AF0579E62A7790F8004577E7 /* DateCell.swift in Sources */,
 				66D176A92A6F773400194690 /* iOSWidget.intentdefinition in Sources */,
 				AF773DFB2A69825E00EF9E1D /* CategoryView.swift in Sources */,
 				AF73FA2F2A6A705A00213DBE /* LogViewModel.swift in Sources */,
 				AF73FA3D2A6EF4BE00213DBE /* CloudKitManagerInterface.swift in Sources */,
 				AFEFF5DC2A67D765004AFD1A /* CloudKitManager.swift in Sources */,
 				AF73FA472A6EFC2800213DBE /* CloudKitManager+Delete.swift in Sources */,
-				AF0579CE2A779066004577E7 /* DetailLogMenuSheet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
